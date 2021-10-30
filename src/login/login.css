@@ -1,0 +1,38 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+    width: 100%;
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .Login {
+    width: 430px;
+    height: 230px;
+    border-radius: 6px;
+    background-color: #6a93cb;
+    background-image: linear-gradient(315deg, #6a93cb 0%, #a4bfef 74%);
+  }
+  .textBox {
+    height: 30px;
+    border-radius: 6px;
+    width: 60%;
+    box-sizing: border-box;
+  }
+  
+  .textBoxDiv {
+    margin-bottom: 20px;
+  }
+  
+  .Button {
+    height: 30px;
+    border-radius: 6px;
+    width: 60%;
+    background-color: #2a2a72;
+    color: white;
+  }
+  
